@@ -13,7 +13,6 @@ struct Voter
 {
     int studentID;
 };
-
 void addCandidate();
 void vote();
 void viewResults();
